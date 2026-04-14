@@ -1,0 +1,5 @@
+# Środowisko wirtualne python
+.venv/
+
+# Plik środowiska lokanlnego
+.env
