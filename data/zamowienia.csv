@@ -1,0 +1,14 @@
+idZamowienia,KlientId,AlbumId,adresDostawy,dataZlozeniaZamowienia
+1,1,1,"ul. Długa 5, Warszawa",2024-03-01
+2,1,2,"ul. Długa 5, Warszawa",2024-03-01
+3,1,3,"ul. Długa 5, Warszawa",2024-03-05
+4,1,8,"ul. Wiejska 10, Warszawa",2024-03-28
+5,2,4,"ul. Morska 12, Gdańsk",2024-03-10
+6,2,6,"ul. Morska 12, Gdańsk",2024-03-10
+7,4,10,"ul. Polna 8, Poznań",2024-03-12
+8,5,7,"ul. Jasna 21, Kraków",2024-03-15
+9,5,8,"ul. Jasna 21, Kraków",2024-03-15
+10,6,1,"ul. Leśna 3, Wrocław",2024-03-18
+11,8,2,"ul. Wiejska 44, Łódź",2024-03-20
+12,8,3,"ul. Wiejska 44, Łódź",2024-03-22
+13,8,10,"ul. Wiejska 44, Łódź",2024-03-25
