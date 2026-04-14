@@ -3,3 +3,6 @@
 
 # Plik środowiska lokanlnego
 .env
+
+# Cache skrytpów Python
+data_scripts/__pycache__/
