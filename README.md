@@ -1,6 +1,6 @@
 # Mini Platforma Danych w Kontenerach Docker
 
-## Przegląd
+## Wstęp
 Projekt ten stanowi kompletną, skonteneryzowaną platformę danych typu End-to-End, która służy jako cyfrowy symulator sklepu muzycznego sprzedającego płyty CD. System odwzorowuje realny obieg informacji w przedsiębiorstwie: od momentu rejestracji sprzedaży, przez przetwarzanie strumieniowe, aż po analityczne składowanie danych w chmurze (Data Lake).
 
 Projekt jest strukturalnie podzielony na 6 zadań, każde budujące na poprzednim. Ten README zawiera objaśnienie instrukcji niezbędnych do korzystania z projektu, omówienie poszczególnych warstw oraz metod sprawdzania, jak każda z tych warstw działa.
